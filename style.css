@@ -1,0 +1,130 @@
+body
+{
+    margin: 0;
+}
+
+.cartao
+{
+   display: flex;
+   justify-content: space-between;
+   border-radius: 10%;
+   margin: 80px;
+}
+
+.cartao p
+{
+    font-size: 15px;
+}
+
+.d-flex
+{
+    margin: 0 !important;
+}
+
+.my-4
+{
+    background-color: #EDEDED;
+    margin: 0 !important;
+    
+}
+
+.navbar
+{
+    background-color:  #6C7AF5;
+}
+
+.nav-item a
+{
+    color: white;
+    font-size: 16px;
+    margin: 20px;
+}
+
+.cor1
+{
+    color: #FFFFFF;
+    font-family: Julius Sans One;
+    font-size: 30px;
+}
+
+.cor
+{
+ color: #FAFF07;
+ font-family: Julius Sans One;
+ font-size: 30px;
+ margin: 10px;
+}
+
+.form-control
+{
+    width: 600px !important;
+    background-color: transparent !important;
+}
+
+.mb-4, .my-4 
+{
+    margin-bottom: 0 !important;
+}
+
+.form-control::placeholder
+{
+    color: white !important;
+}
+
+
+h2
+{
+  text-align: center;
+}
+
+.mb-3
+{
+    display: flex;
+   justify-content: center;
+}
+
+.caixinha
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 30px;
+    width: 800px;
+
+}
+
+.caixinha2
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    margin: 250px;
+}
+
+.mb-3
+{
+    display: block;
+}
+
+.entrar
+{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+
+}
+
+.senha
+{
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+}    
+
+.alt-place::placeholder
+{
+    color:#CDCDCD !important;
+}
